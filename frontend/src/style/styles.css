@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  .app {
+    padding: 20px;
+  }
+  
+  .board {
+    display: flex;
+    gap: 16px;
+    overflow-x: auto;
+  }
+  
+  .list {
+    background-color: #ebecf0;
+    border-radius: 4px;
+    padding: 8px;
+    min-width: 250px;
+  }
+  
+  .card {
+    background-color: #fff;
+    border-radius: 4px;
+    padding: 8px;
+    margin-bottom: 8px;
+    box-shadow: 0 1px 0 rgba(9, 30, 66, 0.25);
+  }
+  
+  .add-list, .add-card {
+    margin-top: 8px;
+  }
+  
+  input, textarea, select, button {
+    margin: 4px 0;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+  }
+  
+  button {
+    background-color: #5aac44;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #519839;
+  }
