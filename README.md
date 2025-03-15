@@ -33,6 +33,29 @@ The **Kanban Project Management App** is a full-stack application designed to he
 
 ---
 
+## **Screenshots**  
+
+### **1️⃣ Board View**  
+Displays all lists inside a board.  
+
+<img width="1406" alt="Screenshot 2025-03-15 at 11 34 08 AM" src="https://github.com/user-attachments/assets/d692d830-8e34-461a-b586-9efcea06bce4" />
+
+
+
+### **2️⃣ Creating a New Card**  
+Allows adding new tasks inside a list.  
+<img width="293" alt="Screenshot 2025-03-15 at 11 34 23 AM" src="https://github.com/user-attachments/assets/d487a174-7bf5-4122-ad52-6c8cf073eab1" />
+
+
+
+
+### **3️⃣ Lists Display**  
+Shows different lists like **To-Do, In Progress, Done.**  
+<img width="1429" alt="Screenshot 2025-03-15 at 11 33 49 AM" src="https://github.com/user-attachments/assets/c1a54b1f-b46f-43f9-bbce-6d7aae8d4675" />
+
+
+
+
 ## Installation & Setup
 
 ### 1. Clone the Repository
